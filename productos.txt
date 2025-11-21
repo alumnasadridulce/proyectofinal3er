@@ -1,0 +1,5 @@
+555559|vestidos|350|vestidos
+555556|Blusas|250|Blusas
+555554|Pantalon|650|Pantalones
+5555687|bolsa|1250|bolsas
+5555486|zapatilla|2565|zapatillas
